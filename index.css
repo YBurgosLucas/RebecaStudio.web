@@ -40,23 +40,30 @@ body{
     padding-left: 30px;
 }
 /*----------------------------------DESCRIPCION------------------------------------------------------*/
-.descripcion{
+.bienvenida{
     font-family: Bodoni MT,Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif;
     width: 100%;
     font-size: x-large;
     color: black;
     
 }
-.descripcion p{
-    display: flex;
-    justify-content: center; 
-    align-items: center;  
+.descripcion {
+ 
     margin-left: 20px ;
     margin-right: 20px;
     width: 95%;
     background-color: rgb(255, 255, 255);
     opacity: 0.7;
+    padding: 20px;
 
+}
+.nombre{
+    margin-left: 500px ;
+    margin-right: 200px;
+    width: 45%;
+    background-color: rgb(255, 255, 255);
+    opacity: 0.7;
+    padding: 20px;
 }
 /*----------------------------------------SERVICIOS------------------------------------------------*/
  .servicio table{
