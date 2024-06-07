@@ -78,13 +78,27 @@ body{
     opacity: 0.7;
     padding-left: 20px;
     font-family: Bodoni MT,Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
-    font-size: larger;
+    font-size: x-large;
+    padding-bottom: 30px;
  }
+ 
 
 /*-----------------------------BUTTOM-------------------------------------------------------------*/
-.pie{
+    .pie{
     clear: both;
     background-color:rgb(143, 142, 140);
     opacity: 0.9;
     border-top: 1px solid wheat;
-}
+    }
+    #contactos{
+    float: left;
+    padding-left: 200px;
+    padding-right: 20px ;
+    }
+    #contactos h3{
+        font-size: x-large;
+    }
+    #ubicacion h3{
+        font-size: x-large;
+    }
+    
