@@ -39,58 +39,20 @@ body{
     padding-top: 10px;
     padding-left: 30px;
 }
-/*----------------------------------DESCRIPCION------------------------------------------------------*/
-.bienvenida{
-    font-family: Bodoni MT,Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif;
-    width: 100%;
-    font-size: x-large;
-    color: black;
-    
+/*------------------------------CUERPO------------------------------------------------------------*/
+.cuerpo{
+    background-color:rgb(255, 254, 252);
+    opacity: 0.9;
+    height: 220px;
+    margin-top: 179px;
 }
-.descripcion {
-    
-    margin-left: 20px ;
-    margin-right: 20px;
-    width: 95%;
-    background-color: rgb(255, 255, 255);
-    opacity: 0.7;
-    padding: 10px;
-
-}
-.nombre{
-    margin-left: 500px ;
-    margin-right: 200px;
-    width: 45%;
-    background-color: rgb(255, 255, 255);
-    opacity: 0.7;
-    padding: 10px;
-}
-/*----------------------------------------SERVICIOS------------------------------------------------*/
- .servicio table{
-    margin-left: 120px ;
-    margin-right: 120px;
-    border: 2px solid wheat;
-    padding: 20px;
-    margin-bottom: 120px;
- }
- .descripcion2{
-    background-color: rgb(255, 255, 255);
-    opacity: 0.7;
-    padding-left: 20px;
-    font-family: Bodoni MT,Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
-    font-size: x-large;
-    padding-bottom: 30px;
-    padding-top: 10px;
- }
- 
-
 /*-----------------------------BUTTOM-------------------------------------------------------------*/
-    .pie{
+.pie{
     clear: both;
     background-color:rgb(143, 142, 140);
     opacity: 0.9;
-    border-top: 4px double wheat;
-    height: 230px;
+    border-top: 3px double wheat;
+    height: 220px;
     margin-top: 179px;
     }
     #contactos{
