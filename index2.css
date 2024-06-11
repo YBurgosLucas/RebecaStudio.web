@@ -15,7 +15,7 @@ body{
 }
 .cuerpo{
     position: absolute;
-    top: 8em;
+    top: 6em;
 }
 #iconos{
     float: left;
@@ -41,18 +41,27 @@ body{
 }
 /*------------------------------CUERPO------------------------------------------------------------*/
 .cuerpo{
-    background-color:rgb(255, 254, 252);
-    opacity: 0.9;
-    height: 220px;
-    margin-top: 179px;
+    font-family: Bodoni MT,Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif;
+    width: 70%;
+    color: black;
+    margin-left: 20px ;
+    margin-right: 20px;
+    background-color: rgb(255, 255, 255);
+    
 }
+.cuerpo h2{
+    font-size: xx-large;
+}
+
+
+
 /*-----------------------------BUTTOM-------------------------------------------------------------*/
 .pie{
     clear: both;
     background-color:rgb(143, 142, 140);
     opacity: 0.9;
-    border-top: 3px double wheat;
-    height: 220px;
+    border-top: 4px double wheat;
+    height: 230px;
     margin-top: 179px;
     }
     #contactos{
